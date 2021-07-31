@@ -1,4 +1,7 @@
-autor :: ali.m.v
+autor :: ali mohammadi variani
+
+main activity :: AI, socket programming
+
 
 ways to contact to me::
 gmail :: ali.m.v.13811381@gmail.com
