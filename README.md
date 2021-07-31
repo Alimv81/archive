@@ -1,9 +1,5 @@
-autor :: ali mohammadi variani
-
-main activity :: AI, socket programming
-
-
-ways to contact to me::
-gmail :: ali.m.v.13811381@gmail.com
-instagram :: ali.m_variani
-number :: +989109879034
+- 👋 Hi, I’m @Alimv81
+- 👀 I’m interested in AI nad deep learning
+- 🌱 I’m currently learning computer sciense
+- 💞️ I’m looking to collaborate on java chat_application gui
+- 📫 How to reach me email :: ali.m.v.13811381@gmail.com
