@@ -5,3 +5,4 @@ signal - 22 - 3
 engineer sttc - 1 - 3
 tah tara sstm - x - 3
 dp lrnng - 34 - 3
+machine theory - 3 - 14
